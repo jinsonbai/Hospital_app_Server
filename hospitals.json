@@ -1,0 +1,22 @@
+[
+  {
+    "name": "General Hospital",
+    "patientCount": 130,
+    "location": "Palayam"
+  },
+  {
+    "name": "Medical College",
+    "patientCount": 500,
+    "location": "Chalakkuzhi"
+  },
+  {
+    "name": "KIMS Hospital",
+    "patientCount": 150,
+    "location": "Trivandrum"
+  },
+  {
+    "name": "Ananthapuri Hospital",
+    "patientCount": 110,
+    "location": "Eanchakkal"
+  }
+]
